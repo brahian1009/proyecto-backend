@@ -1,0 +1,7 @@
+POST http://localhost:4000/compras/createCompras
+Content-Type: application/json
+
+{
+   "usuarios_id": "11",
+   "productos_id": "1"
+}

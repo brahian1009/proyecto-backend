@@ -1,0 +1,10 @@
+POST   http://localhost:4000/auth/createUser 
+Content-Type: application/json
+
+{
+    "nombre": "Veronica 10",
+    "correo": "ba@gmail.com",
+    "contrasena": "brayanhla",
+    "telefono": "748324823478",
+    "rol":"esclava"
+}

@@ -1,0 +1,11 @@
+PUT  http://localhost:4000/auth/updateUser
+Content-Type: application/json
+
+{ 
+    "id":"11",
+    "nombre": "Veronica",
+    "correo": "brayanblbla@gmail.com",
+    "contrasena": "brayanhla",
+    "telefono": "748324823478",
+    "rol":"esclavo"
+}
